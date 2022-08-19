@@ -1,1 +1,3 @@
-# resume
+* [动态简历动画.mp4](https://esn.oss-cn-beijing.aliyuncs.com/gzq/%E5%8A%A8%E6%80%81%E7%AE%80%E5%8E%86%E5%8A%A8%E7%94%BB.mp4?OSSAccessKeyId=xF90z5cfYMVvAbpx&Expires=1747333876&Signature=VzZJzbHYyj6PP7TiylX5Mu794do%3D)
+* [高子淇个人作品集.key](https://esn.oss-cn-beijing.aliyuncs.com/gzq/%E9%AB%98%E5%AD%90%E6%B7%87%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E9%9B%86.key?OSSAccessKeyId=xF90z5cfYMVvAbpx&Expires=1747333906&Signature=Gm61AWu8wD0RhysZ8AmL3aA4dUU%3D)
+* [高子淇个人作品集.pptx](https://esn.oss-cn-beijing.aliyuncs.com/gzq/%E9%AB%98%E5%AD%90%E6%B7%87%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E9%9B%86.pptx?OSSAccessKeyId=xF90z5cfYMVvAbpx&Expires=1747334357&Signature=Q1Ktm1ws2851Pv7SW5MusT8Fens%3D)
